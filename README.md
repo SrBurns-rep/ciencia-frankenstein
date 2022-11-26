@@ -10,7 +10,7 @@ Este projeto é uma demonstração de habilidades e uma forma de interação soc
 1. Respeite o código dos outros, não modifique sem a permissão do criador, faça pull requests e pingue o contribuidor que criou o código
 1. Não crie códigos maliciosos nem coisas que baguncem diretórios e coisas assim
 1. Não deixe binários pesados nem bibliotecas irem para o repositório, isso pesa desnecessariamente
-1. Crie duas branches principais para você, ex: meunome-dev, meunome-release, as branches com nome que contém release serão "mescladas" na branch universal "release", as branches com o nome que contém dev serão mescladas na branch universal "dev"
+1. Crie duas branches principais para você, ex: meunome-dev, meunome-release, as branches com nome que contém release serão "mescladas" na branch universal "release", as branches com o nome que contém dev serão mescladas na branch universal "dev", suas branchs que subirem pro repositório serão apagadas depois do merge
 1. Tente buildar sempre com dependências externas, não coloque bibliotecas de terceiros no repositório, aqui deve ter apenas código "original", single-file headers e outros pedaços de código pequenos (< 1MB) são permitidos
 1. Mantenha a bagunça organizada, crie uma pasta para você dentro de projetos/ e a documentação extra do seu código fica em uma pasta de mesmo nome dentro de docs/
 ### Detalhes
