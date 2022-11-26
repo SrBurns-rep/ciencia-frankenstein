@@ -1,0 +1,22 @@
+# Não deixe seus ambientes de programação vazarem para o
+# repositório, por favor!
+
+# dev envs:
+.venv/
+.vscode/
+
+# executáveis, binários e lixo:
+.exe
+.bin
+.hex
+.elf
+.o
+.so
+.ddl
+
+# testes e builds:
+testes/
+teste/
+test/
+bin/
+
